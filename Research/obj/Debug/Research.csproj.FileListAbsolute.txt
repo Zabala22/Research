@@ -1,0 +1,12 @@
+E:\Visual Studio Projects\Research\bin\Debug\Research.exe.config
+E:\Visual Studio Projects\Research\bin\Debug\Research.exe
+E:\Visual Studio Projects\Research\bin\Debug\Research.pdb
+E:\Visual Studio Projects\Research\obj\Debug\Research.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Research\obj\Debug\Research.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Projects\Research\obj\Debug\Research.Properties.Resources.resources
+E:\Visual Studio Projects\Research\obj\Debug\Research.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Research\obj\Debug\Research.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Research\obj\Debug\Research.exe
+E:\Visual Studio Projects\Research\obj\Debug\Research.pdb
+E:\Visual Studio Projects\Research\obj\Debug\Research.Form1.resources
+E:\Visual Studio Projects\Research\obj\Debug\Research.Form2.resources
